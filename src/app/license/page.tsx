@@ -28,7 +28,7 @@ export default function License() {
         </ul>
 
         <p className="mb-6">
-          This License Agreement ("Agreement") is entered into between PyLaunch, represented by Tomas Rojo, whose contact information is info@pylaunch.net, and you, the user ("Licensee"), regarding the use of the PyLaunch coding boilerplate (the "Product") available at https://pylaunch.net/ (the "Website"). By downloading, accessing, or using the Product, Licensee agrees to be bound by the terms and conditions of this Agreement.
+          This License Agreement (&quot;Agreement&quot;) is entered into between PyLaunch, represented by Tomas Rojo, whose contact information is info@pylaunch.net, and you, the user (&quot;Licensee&quot;), regarding the use of the PyLaunch coding boilerplate (the &quot;Product&quot;) available at https://pylaunch.net/ (the &quot;Website&quot;). By downloading, accessing, or using the Product, Licensee agrees to be bound by the terms and conditions of this Agreement.
         </p>
 
         <h2 className="text-xl font-semibold mb-4">1. Grant of License</h2>
@@ -70,9 +70,8 @@ export default function License() {
 
         <h2 className="text-xl font-semibold mb-4">4. Warranty Disclaimer</h2>
         <p className="mb-4">
-          THE PYLAUNCH BOILERPLATE IS PROVIDED "AS IS" WITHOUT ANY WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+          THE PYLAUNCH BOILERPLATE IS PROVIDED &quot;AS IS&quot; WITHOUT ANY WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
         </p>
-
 
         <h2 className="text-xl font-semibold mb-4">5. Limitation of Liability</h2>
         <p className="mb-4">
@@ -88,7 +87,6 @@ export default function License() {
         <p className="mb-4">
           This Agreement represents the complete agreement between Licensee and PyLaunch regarding the subject matter and supersedes all prior or contemporaneous agreements, representations, warranties, and understandings.
         </p>
-
 
         <p className="mt-8 text-sm text-gray-600">
           Last updated: 2024-09-07

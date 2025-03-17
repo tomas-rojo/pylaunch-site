@@ -1,47 +1,6 @@
-import LaunchButton from "@/components/LaunchButton";
-import { AnimatedSubscribeButton } from "@/components/magicui/animated-subscribe-button";
-import DotPattern from "@/components/magicui/dot-pattern";
-import LetterPullup from "@/components/magicui/letter-pullup";
-import { Check, CheckIcon, ChevronRight, Code2, Database, GitBranch, Rocket, Shield, Zap } from "lucide-react";
-import BlurIn from "@/components/magicui/blur-in"
-import NavHeader from "@/components/NavHeader";
-import PricingSection from "@/components/Pricing";
-import OrbitalDiagram from "@/components/o";
+import { Check, ChevronRight, Code2, Database, GitBranch, Rocket, Zap } from "lucide-react";
+import OrbitalDiagram from "@/components/OrbitalDiagram";
 import FeatureCard from "@/components/f";
-
-// export default function Home() {
-//   return (
-//     <>
-//       <NavHeader />
-//       <main className="relative flex min-h-screen flex-col items-center justify-center gap-8 overflow-hidden">
-//         <DotPattern className="absolute inset-0 opacity-75" />
-//         <div className="flex items-center">
-//           <LetterPullup words="PyLaunch " className="md:text-8xl text-6xl" />
-//         </div>
-//         <BlurIn
-//           word="Turbocharge Your Python API Development"
-//           className="font-bold text-black dark:text-white text-indigo-600"
-//         />
-//         <OrbitalDiagram />
-//         <div className="mt-8">
-//           <AnimatedSubscribeButton
-//             buttonColor="rgb(79 70 229)"
-//             buttonTextColor="#ffffff"
-//             subscribeStatus={false}
-//             initialText={<LaunchButton />}
-//             changeText={
-//               <span className="group inline-flex items-center">
-//                 <CheckIcon className="mr-2 h-4 w-4" />
-//                 Redirecting...{" "}
-//               </span>
-//             }
-//           />
-//         </div>
-//       </main>
-//         <PricingSection id="pricing" />
-//     </>
-//   );
-// }
 
 export default function Home() {
   return (
@@ -82,7 +41,7 @@ export default function Home() {
           <FeatureCard
             icon={Rocket}
             title="Instant Setup"
-            description="Get your REST API running in under 5 minutes with our comprehensive boilerplate setup"
+            description="Get your REST API running in under 5 minutes with this comprehensive boilerplate setup"
           />
           <FeatureCard
             icon={Database}
@@ -137,7 +96,7 @@ export default function Home() {
                     {feature}
                   </li>
                 ))}
-              </ul>
+              </ul> 
               <a href="https://buy.stripe.com/test_9AQ4ixar48dAbmg5kk" className="w-full bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white py-3 rounded-lg font-semibold transition-all shadow-lg shadow-blue-500/20 hover:shadow-blue-500/30 flex items-center justify-center gap-2">
                 <Rocket size={20} />
                 Get PyLaunch

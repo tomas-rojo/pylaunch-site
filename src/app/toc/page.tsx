@@ -35,7 +35,7 @@ export default function TermsAndConditions() {
   This license entails a straightforward and flexible arrangement, exempting users from recurring fees or subscriptions. However, it is important to acknowledge that the licensor retains the right to terminate the license without conditions or prerequisites. This termination provision enables the licensor to exercise control over software distribution and utilization.
   </p>
   <p>
-Opting for the PyLaunch Software License enables users to enjoy the benefits of the software while recognizing the licensor's unrestricted termination rights, which provide adaptability and address potential unforeseen circumstances.
+Opting for the PyLaunch Software License enables users to enjoy the benefits of the software while recognizing the licensor&apos;s unrestricted termination rights, which provide adaptability and address potential unforeseen circumstances.
         </p>
 
         <h2 className="text-2xl font-semibold mt-6 mb-4">4. Refunds</h2>
@@ -47,8 +47,6 @@ Due to the nature of digital products, the PyLaunch boilerplate cannot be refund
         <p>
 It is not warranted that PyLaunch will meet your requirements or that its operation will be uninterrupted or error free. All express and implied warranties or conditions not stated in this Agreement (including without limitation, loss of profits, loss or corruption of data, business interruption or loss of contracts), so far as such exclusion or disclaimer is permitted under the applicable law are excluded and expressly disclaimed. This Agreement does not affect your statutory rights.
         </p>
-
-
 
         <p className="text-sm text-gray-600 mt-8">Last updated: 21 June 2024.</p>
       </div>

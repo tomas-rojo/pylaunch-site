@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 
 import { cn } from "@/lib/utils";
-import { Rocket } from "lucide-react";
 
 interface LetterPullupProps {
   className?: string;
@@ -20,7 +19,7 @@ export default function LetterPullup({
 
   const pullupVariant = {
     initial: { y: 100, opacity: 0 },
-    animate: (i: any) => ({
+    animate: (i: number) => ({
       y: 0,
       opacity: 1,
       transition: {
