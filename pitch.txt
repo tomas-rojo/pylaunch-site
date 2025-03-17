@@ -1,0 +1,15 @@
+Introducing PyLaunch
+
+The ultimate kick-starter for building Python REST APIs with Clean Architecture! 
+PyLaunch is a meticulously crafted, modular boilerplate project that empowers developers 
+to create scalable APIs quickly and efficiently. 
+
+Designed for flexibility, PyLaunch enables easy swapping of core components like 
+web frameworks, databases, and CI tools, making it adaptable to any tech stack or project need.
+
+Whether you're building a microservice, monolith, or modular monolith, 
+PyLaunch simplifies the setup with best practices already in place.
+With PyLaunch, you're not just launching an API—you're establishing a resilient, 
+maintainable foundation that can evolve as your project grows. 
+
+Perfect for teams or solo developers who need a solid starting point without compromising on code quality or architecture!

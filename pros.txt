@@ -1,0 +1,26 @@
+x hours setting up the database connection
+x hours writing the first tests
+x hours setting up the web server
+x hours containerizing the app
+x hours setting up the CI/CD pipeline
+
+Great for getting started with your Python project ASAP
+
+Wheter you want to build a REST API with Flask or FastAPI, PyLaunch is a great choice.
+Even for microservices or a monolith, PyLaunch is a great choice.
+
+Python API Boilerplate with Flask or FastAPI
+Connection to databases: Postgres, MySQL, MongoDB, and more
+Domain Driven Design ready
+Works for microservices, monolith, or modulith
+Docker ready, with Docker Compose
+CI/CD ready, with Github Actions or Gitlab CI
+Format checking and linting with Ruff
+Type checking with Mypy
+High quality codebase
+Testing ready, with Unit, Integration, and E2E tests
+Documentation ready with Swagger UI (FastAPI only)
+
+-----------
+Rate limiting with Ratelimit
+Caching with Redis
