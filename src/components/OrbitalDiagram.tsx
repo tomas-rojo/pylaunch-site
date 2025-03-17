@@ -63,7 +63,7 @@ const OrbitalDiagram: React.FC = () => {
           <div className="absolute top-[5%] left-1/2 -translate-x-1/2 -translate-y-1/2 w-16 h-16 bg-white/5 rounded-lg p-2 backdrop-blur-sm">
             <div className="relative w-full h-full">
               <Image
-                src="pylaunch-site/img/postgres.webp"
+                src="img/postgres.webp"
                 alt="PostgreSQL"
                 fill
                 objectFit="contain"
@@ -83,7 +83,7 @@ const OrbitalDiagram: React.FC = () => {
           <div className="absolute left-0 top-[70%] -translate-x-1/2 -translate-y-1/2 w-16 h-16 bg-white/5 rounded-lg p-2 backdrop-blur-sm">
             <div className="relative w-full h-full">
               <Image
-                src="pylaunch-site/docker.webp"
+                src="img/docker.webp"
                 alt="Docker"
                 fill
                 objectFit="contain"
