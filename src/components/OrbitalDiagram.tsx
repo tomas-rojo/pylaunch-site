@@ -1,5 +1,5 @@
-import React from 'react';
-import Image from 'next/image';
+import React from "react";
+import Image from "next/image";
 
 const OrbitalDiagram: React.FC = () => {
   return (
@@ -9,7 +9,7 @@ const OrbitalDiagram: React.FC = () => {
         <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-24 h-24 bg-white/5 rounded-full p-2 backdrop-blur-sm">
           <div className="relative w-full h-full">
             <Image
-              src="/img/python.webp"
+              src="/public/img/python.webp"
               alt="Python"
               fill
               objectFit="contain"
@@ -23,7 +23,7 @@ const OrbitalDiagram: React.FC = () => {
           <div className="absolute top-[2%] left-1/2 -translate-x-1/2 -translate-y-1/2 w-16 h-16 bg-white/5 rounded-lg p-2 backdrop-blur-sm">
             <div className="relative w-full h-full">
               <Image
-                src="/img/fastapi.webp"
+                src="/public/img/fastapi.webp"
                 alt="FastAPI"
                 fill
                 objectFit="contain"
@@ -38,7 +38,7 @@ const OrbitalDiagram: React.FC = () => {
           <div className="absolute top-[3%] left-1/2 -translate-x-1/2 -translate-y-1/2 w-16 h-16 bg-white/5 rounded-lg p-2 backdrop-blur-sm">
             <div className="relative w-full h-full">
               <Image
-                src='/img/flask.webp'
+                src="/public/img/flask.webp"
                 alt="Flask"
                 fill
                 objectFit="contain"
@@ -48,7 +48,7 @@ const OrbitalDiagram: React.FC = () => {
           <div className="absolute bottom-[15%] left-1/2 -translate-x-1/2 translate-y-1/2 w-16 h-16 bg-white/5 rounded-lg p-2 backdrop-blur-sm">
             <div className="relative w-full h-full">
               <Image
-                src='/img/redis.webp'
+                src="/public/img/redis.webp"
                 alt="Redis"
                 fill
                 objectFit="contain"
@@ -63,7 +63,7 @@ const OrbitalDiagram: React.FC = () => {
           <div className="absolute top-[5%] left-1/2 -translate-x-1/2 -translate-y-1/2 w-16 h-16 bg-white/5 rounded-lg p-2 backdrop-blur-sm">
             <div className="relative w-full h-full">
               <Image
-                src='/img/postgres.webp'
+                src="/public/img/postgres.webp"
                 alt="PostgreSQL"
                 fill
                 objectFit="contain"
@@ -83,7 +83,7 @@ const OrbitalDiagram: React.FC = () => {
           <div className="absolute left-0 top-[70%] -translate-x-1/2 -translate-y-1/2 w-16 h-16 bg-white/5 rounded-lg p-2 backdrop-blur-sm">
             <div className="relative w-full h-full">
               <Image
-                src='/img/docker.webp'
+                src="/public/img/docker.webp"
                 alt="Docker"
                 fill
                 objectFit="contain"
@@ -99,7 +99,7 @@ const OrbitalDiagram: React.FC = () => {
           <div className="absolute top-[10%] left-1/2 -translate-x-1/2 -translate-y-1/2 w-16 h-16 bg-white/5 rounded-lg p-2 backdrop-blur-sm">
             <div className="relative w-full h-full">
               <Image
-                src='/img/github.webp'
+                src="/public/img/github.webp"
                 alt="GitHub"
                 fill
                 objectFit="contain"
@@ -110,7 +110,7 @@ const OrbitalDiagram: React.FC = () => {
           <div className="absolute bottom-[20%] left-1/2 -translate-x-1/2 translate-y-1/2 w-16 h-16 bg-white/5 rounded-lg p-2 backdrop-blur-sm">
             <div className="relative w-full h-full">
               <Image
-                src='/img/gitlab.webp'
+                src="/public/img/gitlab.webp"
                 alt="GitLab"
                 fill
                 objectFit="contain"

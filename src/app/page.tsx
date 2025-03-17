@@ -1,6 +1,6 @@
 import { Check, ChevronRight, Code2, Database, GitBranch, Rocket, Zap } from "lucide-react";
 import OrbitalDiagram from "@/components/OrbitalDiagram";
-import FeatureCard from "@/components/f";
+import FeatureCard from "@/components/FeatureCard";
 
 export default function Home() {
   return (
